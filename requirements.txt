@@ -1,4 +1,4 @@
 streamLit
 opencv-python-headless
 numpy
-tensorflow
+tensorflow==2.6.0
