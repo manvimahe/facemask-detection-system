@@ -1,0 +1,5 @@
+streamLit
+cv2
+numpy
+tensorflow
+smtplib
