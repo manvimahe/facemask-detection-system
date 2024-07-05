@@ -1,4 +1,4 @@
 streamLit
-opencv-python
+opencv-python-headless
 numpy
 tensorflow
