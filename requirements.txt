@@ -2,4 +2,3 @@ streamLit
 opencv-python
 numpy
 tensorflow
-smtplib
